@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm David</h1>
+<h3 align="center">A full stack developer from Germany</h3>
 
-<!--
-**sczesny/sczesny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5 align="center" color="gray">Languages I code with:</h3>
+<p align="center">
+<a title="Java"><img width="35px" height="35px" src="https://raw.githubusercontent.com/sczesny/sczesny/main/img/java.svg" alt="Java" loading="lazy"></a>
+<a title="C#"><img width="35px" height="35px" src="https://raw.githubusercontent.com/sczesny/sczesny/main/img/csharp.svg" alt="C#" loading="lazy"></a>
+<a title="C++"><img width="35px" height="35px" src="https://raw.githubusercontent.com/sczesny/sczesny/main/img/cplusplus.svg" alt="C++" loading="lazy"></a>
+<a title="C"><img width="35px" height="35px" src="https://raw.githubusercontent.com/sczesny/sczesny/main/img/c.svg" alt="C" loading="lazy"></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a title="HTML"><img width="35px" height="35px" src="https://raw.githubusercontent.com/sczesny/sczesny/main/img/html.svg" alt="HTML" loading="lazy"></a>
+<a title="CSS"><img width="35px" height="35px" src="https://raw.githubusercontent.com/sczesny/sczesny/main/img/css.svg" alt="CSS" loading="lazy"></a>
+<a title="JavaScript"><img width="35px" height="33px" src="https://raw.githubusercontent.com/sczesny/sczesny/main/img/javascript.svg" alt="JavaScript" loading="lazy"></a>
+<a title="PHP"><img width="35px" height="35px" src="https://raw.githubusercontent.com/sczesny/sczesny/main/img/php.svg" alt="PHP" loading="lazy"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a title="SQL"><img width="35px" height="35px" src="https://raw.githubusercontent.com/sczesny/sczesny/main/img/sql.svg" alt="SQL" loading="lazy"></a>
+<a title="Git"><img width="35px" height="35px" src="https://raw.githubusercontent.com/sczesny/sczesny/main/img/git.svg" alt="Git" loading="lazy"></a>
+<!--a title="Linux"><img width="35px" height="35px" src="https://raw.githubusercontent.com/sczesny/sczesny/main/img/linux.svg" alt="Linux" loading="lazy"></a-->
+</p>
+
+<p align="center"><a href="https://gist.github.com/sczesny">📋 gists</a></p>
