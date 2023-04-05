@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A full stack developer from Germany</h3>
 
-<h5 align="center" color="gray">Languages I code with:</h3>
+<h5 align="center" color="gray">Languages I currently use:</h3>
 
 <p align="center">
 <a title="HTML"><img width="35px" height="35px" src="https://raw.githubusercontent.com/sczesny/sczesny/main/img/html.svg" alt="HTML" loading="lazy"></a>
