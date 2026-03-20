@@ -1,6 +1,6 @@
 <svg id="mandala" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"
     preserveAspectRatio="xMidYMid slice" width="1140" height="300"
-    shape-rendering="optimizeSpeed " text-rendering="geometricPrecision">
+    shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
     <defs>
         <radialGradient id="background-gradient">
             <stop offset="10%" stop-color="white" stop-opacity="0.9" />
