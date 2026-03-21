@@ -12,8 +12,8 @@ mkdir -p "$FRAMES_DIR"
 magick "$INPUT" "$FRAMES_DIR/frame_%04d.png"
 
 # Build frame lists
-FORWARD=$(for i in $(seq 0 45); do printf "%s/frame_%04d.png " "$FRAMES_DIR" $i; done)
-REVERSE=$(for i in $(seq 13 -1 1); do printf "%s/frame_%04d.png " "$FRAMES_DIR" $i; done)
+FORWARD=$(for i in $(seq 0 42); do printf "%s/frame_%04d.png " "$FRAMES_DIR" $i; done)
+REVERSE=$(for i in $(seq 18 -1 1); do printf "%s/frame_%04d.png " "$FRAMES_DIR" $i; done)
 LAST="$FRAMES_DIR/frame_0000.png"
 
 # Build GIF: frames 0-45, then 13-0 reversed, last frame held 3s
